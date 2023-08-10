@@ -1,4 +1,4 @@
-package koschei.config
+package koschei.config;
 
 import koschei.models.Duck5;
 import koschei.models.Island2;
