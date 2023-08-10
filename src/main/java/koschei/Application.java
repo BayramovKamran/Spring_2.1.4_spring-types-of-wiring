@@ -1,4 +1,4 @@
-package koschei;
+package koschei
 
 import koschei.config.AppConfig;
 import org.springframework.context.ApplicationContext;
