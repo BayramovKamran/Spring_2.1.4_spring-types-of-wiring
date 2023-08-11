@@ -1,4 +1,4 @@
-package koschei.models
+package koschei.models;
 
 import org.springframework.stereotype.Component;
 
