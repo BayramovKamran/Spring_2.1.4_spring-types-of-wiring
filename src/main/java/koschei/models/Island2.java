@@ -1,4 +1,4 @@
-package koschei.models;
+package koschei.models
 
 public class Island2 {
 
